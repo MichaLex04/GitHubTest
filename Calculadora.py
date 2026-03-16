@@ -5,5 +5,5 @@ JH Resta
 JS Multiplicacion
 JS Division
 
-MLX Salida 2
+MLX Salida 3
 """
