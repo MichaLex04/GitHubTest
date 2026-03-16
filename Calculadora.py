@@ -26,8 +26,9 @@ if num2 != 0:
 else:
     division = "No se puede dividir entre cero"
 
-# Salida de resultados
+# Salida de resultadosc
 print("Resultado de la multiplicación:", multiplicacion)
 print("Resultado de la división:", division)
+print("prueba")
 
 #DUEÑO DEL REPOSITORIO MLX
